@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios'>
+    <pages>
+        <page name='Extension'/>
+        <page name='Extension + String'/>
+        <page name='Extension + Int'/>
+        <page name='Extension + Double'/>
+        <page name='Extension + Collection'/>
+    </pages>
+</playground>
